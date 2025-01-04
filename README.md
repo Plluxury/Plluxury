@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Study in Nizhny Novgorod Radio Engineering College under program information systems and programming
+Studied in Nizhny Novgorod Radio Engineering College under program information systems and programming
 
 Winner of It Space 2022 cybersecurity hackathon  
 
