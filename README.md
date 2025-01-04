@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Study in Nizhny Novgorod Radio Engineering College under program information systems and programming
+Winner of It Space 2022 cybersecurity hackathon  
+3rd place of IT Planet computer networks hackathon 
+Interned at company "Гарда Технологии" for six month in the ML direction, successfully
+Now I'm studying in HSE in the Software Engineering direction
